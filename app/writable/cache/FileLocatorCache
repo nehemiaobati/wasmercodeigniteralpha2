@@ -1,0 +1,186 @@
+<?php return array (
+  'search' => 
+  array (
+    'Config/Services' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/app/Config/Services.php',
+          1 => '/Users/nehemia/Documents/DEV/codeigniter/system/Config/Services.php',
+        ),
+      ),
+    ),
+    'Config/Registrar.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+        ),
+      ),
+    ),
+    'Helpers/kint_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Helpers/kint_helper.php',
+        ),
+      ),
+    ),
+    'Helpers/url_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Helpers/url_helper.php',
+        ),
+      ),
+    ),
+    'Helpers/filesystem_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Helpers/filesystem_helper.php',
+        ),
+      ),
+    ),
+    'Config/Events.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/app/Config/Events.php',
+        ),
+      ),
+    ),
+    'Config/Filters.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/app/Config/Filters.php',
+          1 => '/Users/nehemia/Documents/DEV/codeigniter/system/Config/Filters.php',
+        ),
+      ),
+    ),
+    'Helpers/array_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Helpers/array_helper.php',
+        ),
+      ),
+    ),
+    'Config/Routes.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/app/Config/Routes.php',
+        ),
+      ),
+    ),
+    'Language/en/HTTP.php' => 
+    array (
+      'php' => 
+      array (
+        0 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Language/en/HTTP.php',
+        ),
+      ),
+    ),
+    'Helpers/form_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Helpers/form_helper.php',
+        ),
+      ),
+    ),
+    'Language/en/Errors.php' => 
+    array (
+      'php' => 
+      array (
+        0 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Language/en/Errors.php',
+        ),
+      ),
+    ),
+    'Language/en/Email.php' => 
+    array (
+      'php' => 
+      array (
+        0 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Language/en/Email.php',
+        ),
+      ),
+    ),
+    'Language/en/Pager.php' => 
+    array (
+      'php' => 
+      array (
+        0 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Language/en/Pager.php',
+        ),
+      ),
+    ),
+    'Config/Factory' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Config/Factory.php',
+        ),
+      ),
+    ),
+    'Language/en/Security.php' => 
+    array (
+      'php' => 
+      array (
+        0 => 
+        array (
+          0 => '/Users/nehemia/Documents/DEV/codeigniter/system/Language/en/Security.php',
+        ),
+      ),
+    ),
+  ),
+  'findQualifiedNameFromPath' => 
+  array (
+    '/Users/nehemia/Documents/DEV/codeigniter/app/Config/Services.php' => 'Config\\Services',
+    '/Users/nehemia/Documents/DEV/codeigniter/system/Config/Factory.php' => 'CodeIgniter\\Config\\Factory',
+  ),
+  'getClassname' => 
+  array (
+    '/Users/nehemia/Documents/DEV/codeigniter/app/Config/Filters.php' => 'Config\\Filters',
+    '/Users/nehemia/Documents/DEV/codeigniter/system/Config/Filters.php' => 'CodeIgniter\\Config\\Filters',
+  ),
+  'locateFile' => 
+  array (
+    'CodeIgniter\\Pager\\Views\\default_full.php' => 
+    array (
+      'Views' => 
+      array (
+        'php' => '/Users/nehemia/Documents/DEV/codeigniter/system/Pager/Views/default_full.php',
+      ),
+    ),
+  ),
+);
